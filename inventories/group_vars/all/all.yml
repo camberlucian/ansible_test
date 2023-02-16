@@ -1,0 +1,4 @@
+---
+username: deploy
+app_name: ansible_test
+domain: localhost
